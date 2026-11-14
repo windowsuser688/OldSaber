@@ -2,7 +2,7 @@
 
 OldSaber is a debut of the scrapped mod "LegacySaber" by user [Kaitlyn.](https://github.com/meowybnuuy)
 
-This mod (almost) accurately recreates old Beat Saber.
+This mod (almost) accurately recreates old Beat Saber. (Specifically 0.10.1).
 
 Features that we need tweaking:
 1. Old Bombs
