@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "OldSaber",
+  "name": "OldSaber",
+  "version": "1.0.0",
+  "gameVersion": "1.40.8",
+  "author": "OldSaber contributors",
+  "description": "Toggle classic environments and OldNotes project shaders/trails/debris from the OldSaber gameplay tab. PC 1.40.8.",
+  "dependsOn": {
+    "BSIPA": ">=4.3.0",
+    "SiraUtil": "^3.1.14",
+    "BeatSaberMarkupLanguage": "^1.12.3"
+  }
+}

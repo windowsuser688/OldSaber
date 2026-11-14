@@ -1,0 +1,13 @@
+<bg>
+  <vertical preferred-width='90' horizontal-fit='PreferredSize' vertical-fit='PreferredSize' spacing='2'>
+    <text text='OldSaber' align='Center' font-size='6'/>
+    <bool-setting text='Old Environment' value='old-environment' apply-on-change='true'/>
+    <bool-setting text='Old Notes' value='old-notes' apply-on-change='true'/>
+    <bool-setting text='Old Sabers' value='old-sabers' apply-on-change='true'/>
+    <bool-setting text='Old Obstacles (requires Distortions)' value='old-obstacles' apply-on-change='true'/>
+    <bool-setting text='Old GUI (Gameplay HUD)' value='old-gui' apply-on-change='true'/>
+    <text text='Other changes apply to the next song.' align='Center' font-size='3.5'/>
+    <text text='Environment: The First, Triangle, Big Mirror or Nice.' align='Center' font-size='3'/>
+    <text text='Notes: classic shader, trails and debris.' align='Center' font-size='3'/>
+  </vertical>
+</bg>
