@@ -55,6 +55,7 @@ Or, on linux:
 cd /source/to/the/project/project-name/tools
 ```
 (replace "/source/to/the/project and project-name to the path and the name of the project)
+
 4. Run the Python file (skip this too if you double-click the python file, if you are on windows, you can also don't skip this)
 ```bash
 python3 build_mod.py
