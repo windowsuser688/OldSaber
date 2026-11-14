@@ -61,6 +61,7 @@ cd /source/to/the/project/project-name/tools
 python3 build_mod.py
 ```
 This will build the mod, into a Plugins folder, or a zip file.
+
 5. Open the Plugins Folder (in the dist folder of the project folder)
 6. Drag the Plugins folder's content into your Beat Saber's Plugin folder
 7. Enjoy!
