@@ -7,7 +7,7 @@ This mod (almost) accurately recreates old Beat Saber. (Specifically 0.10.1).
 Features that we need tweaking:
 1. Old Bombs
 2. idk lmao
-# Installation
+# Mod installation requirements
 1. Beat Saber 1.40.8
 2. BSIPA
 3. BSML
