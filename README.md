@@ -9,7 +9,9 @@ Features that we need tweaking:
 2. idk lmao
 # Installation
 1. Beat Saber 1.40.8
-2. BSIPA 4.3.6
+2. BSIPA
+3. BSML
+4. SiraUtil
 
 # Preview
 To see OldSaber in action, see the [preview.](https://www.youtube.com/watch?v=SP-lQd-KsDY)
